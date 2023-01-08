@@ -1,8 +1,8 @@
 ### Hi friend! 👋
 
-My name's Joe. I'm a Lead Trust and Safety Specialist at the (Wikimedia Foundation)[https://wikimediafoundation.org/] in San Francisco, California — the non-profit organisation that supports (Wikipedia)[https://wikipedia.org] and related free-knowledge projects like (Wikidata)[https://wikidata.org] and [Wikimedia Commons](https://commons.wikimedia.org/].
+My name's Joe. I'm a Lead Trust and Safety Specialist at the [Wikimedia Foundation](https://wikimediafoundation.org/) in San Francisco, California — the non-profit organisation that supports [Wikipedia](https://wikipedia.org) and related free-knowledge projects like [Wikidata](https://wikidata.org) and [Wikimedia Commons](https://commons.wikimedia.org/).
 
-
+Find out more about me in [my personal website](https://joesutherland.rocks).
 
 <!--
 **jrbsu/jrbsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
